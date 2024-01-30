@@ -1,0 +1,47 @@
+@media screen and (max-width: 480px){
+    .menuIteam , .icon_div{
+        display: none;
+    }
+    .loginDiv{
+        text-align: right;
+        display: flex;
+        justify-content: end;
+        align-items: right;
+    }
+    .closebtn {
+        display: block;
+    }
+}
+
+
+@media screen and (max-width: 570px){
+    .menuIteam , .icon_div{
+        display: none;
+    }
+    .loginDiv{
+        text-align: right;
+        display: flex;
+        justify-content: end;
+        align-items: right;
+    }
+    .closebtn {
+        display: block;
+        
+    }
+}
+
+@media screen and (max-width: 768px){
+    .menuIteam , .icon_div{
+        display: none;
+    }
+    .loginDiv{
+        text-align: right;
+        display: flex;
+        justify-content: end;
+        align-items: right;
+    }
+    .closebtn {
+        display: block;
+        
+    }
+}
