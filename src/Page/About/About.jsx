@@ -45,7 +45,7 @@ console.log(allproductdata.length)
             <section className="container-fluid about_Banner">
                 <div className="container about_container">
                     <h4>About us</h4>
-                    <p>Page - <span>About us</span></p>
+                    <p>Page - <span>About us pages</span></p>
                 </div>
             </section>
 
